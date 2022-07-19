@@ -1,4 +1,3 @@
-import "./App.css";
 import GridCanvas from "./components/GridCanvas";
 
 function App() {
